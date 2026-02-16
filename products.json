@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Ceramic Brake Pads (Front)",
+    "price": 45.99,
+    "description": "High-performance ceramic brake pads for reduced dust and noise.",
+    "category": "Brakes",
+    "image": "https://images.unsplash.com/photo-1605218427306-022ba8c32f19?q=80&w=500&auto=format&fit=crop",
+    "rating": { "rate": 4.5, "count": 120 }
+  },
+  {
+    "id": 2,
+    "title": "Oil Filter Premium",
+    "price": 12.50,
+    "description": "Synthetic blend media filter for extended engine life.",
+    "category": "Filters",
+    "image": "https://images.unsplash.com/photo-1623880840062-8566270081d4?q=80&w=500&auto=format&fit=crop",
+    "rating": { "rate": 4.8, "count": 230 }
+  },
+  {
+    "id": 3,
+    "title": "Sport Suspension Kit",
+    "price": 899.00,
+    "description": "Adjustable coilovers for improved handling and stance.",
+    "category": "Suspension",
+    "image": "https://images.unsplash.com/photo-1619556834076-24f4675f9229?q=80&w=500&auto=format&fit=crop",
+    "rating": { "rate": 4.9, "count": 15 }
+  },
+  {
+    "id": 4,
+    "title": "Alternator 120A",
+    "price": 185.00,
+    "description": "Heavy-duty alternator for high electrical load applications.",
+    "category": "Electrical",
+    "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?q=80&w=500&auto=format&fit=crop",
+    "rating": { "rate": 4.2, "count": 45 }
+  },
+  {
+    "id": 5,
+    "title": "Performance Exhaust Manifold",
+    "price": 350.00,
+    "description": "Stainless steel headers for increased airflow and horsepower.",
+    "category": "Exhaust",
+    "image": "https://images.unsplash.com/photo-1567863786068-405c2299f93d?q=80&w=500&auto=format&fit=crop",
+    "rating": { "rate": 4.7, "count": 89 }
+  },
+  {
+    "id": 6,
+    "title": "Water Pump Kit",
+    "price": 68.99,
+    "description": "Complete water pump kit including gasket and seals.",
+    "category": "Cooling",
+    "image": "https://images.unsplash.com/photo-1562916175-3b957597f0e9?q=80&w=500&auto=format&fit=crop",
+    "rating": { "rate": 4.4, "count": 67 }
+  },
+  {
+    "id": 7,
+    "title": "Spark Plug Iridium (Set of 4)",
+    "price": 32.00,
+    "description": "Long-life iridium spark plugs for optimal combustion.",
+    "category": "Engine",
+    "image": "https://images.unsplash.com/photo-1583209814737-8ec3e9e37b26?q=80&w=500&auto=format&fit=crop",
+    "rating": { "rate": 4.9, "count": 400 }
+  },
+  {
+    "id": 8,
+    "title": "Brake Rotors Drilled & Slotted",
+    "price": 220.00,
+    "description": "High-performance rotors for track and street use.",
+    "category": "Brakes",
+    "image": "https://images.unsplash.com/photo-1605218427306-022ba8c32f19?q=80&w=500&auto=format&fit=crop",
+    "rating": { "rate": 4.6, "count": 34 }
+  },
+  {
+    "id": 9,
+    "title": "Radiator Assembly",
+    "price": 145.50,
+    "description": "OEM replacement radiator with enhanced cooling capacity.",
+    "category": "Cooling",
+    "image": "https://images.unsplash.com/photo-1562916175-3b957597f0e9?q=80&w=500&auto=format&fit=crop",
+    "rating": { "rate": 4.3, "count": 22 }
+  },
+  {
+    "id": 10,
+    "title": "Mass Air Flow Sensor",
+    "price": 85.00,
+    "description": "Accurate air flow measurement for fuel efficiency.",
+    "category": "Electrical",
+    "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?q=80&w=500&auto=format&fit=crop",
+    "rating": { "rate": 4.1, "count": 12 }
+  }
+]
